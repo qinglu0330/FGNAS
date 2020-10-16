@@ -1,0 +1,1648 @@
+{
+    "adder": [
+        {
+            "LUT": 262,
+            "Reg": 278,
+            "DSP": 2,
+            "cycle": 4
+        },
+        {
+            "LUT": 13,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 11,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 12,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 15,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 15,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 15,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 15,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 16,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 17,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 18,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 19,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 20,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 21,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 22,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 23,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        }
+    ],
+    "multiplier": [
+        [
+            {
+                "LUT": 92,
+                "Reg": 130,
+                "DSP": 3,
+                "cycle": 1
+            }
+        ],
+        [
+            {
+                "LUT": null,
+                "Reg": null,
+                "DSP": null,
+                "cycle": null
+            },
+            {
+                "LUT": 0,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 14,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 16,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 20,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 21,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 22,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 23,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 23,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 25,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 27,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 29,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 31,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 33,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            }
+        ],
+        [
+            {
+                "LUT": null,
+                "Reg": null,
+                "DSP": null,
+                "cycle": null
+            },
+            {
+                "LUT": 14,
+                "Reg": 0,
+                "DSP": 1,
+                "cycle": 0
+            },
+            {
+                "LUT": 7,
+                "Reg": 0,
+                "DSP": 1,
+                "cycle": 0
+            },
+            {
+                "LUT": 8,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 11,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 17,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 23,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 32,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 40,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 50,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            }
+        ],
+        [
+            {
+                "LUT": null,
+                "Reg": null,
+                "DSP": null,
+                "cycle": null
+            },
+            {
+                "LUT": 16,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 8,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 12,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 11,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 17,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 23,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 32,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 40,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 50,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            }
+        ],
+        [
+            {
+                "LUT": null,
+                "Reg": null,
+                "DSP": null,
+                "cycle": null
+            },
+            {
+                "LUT": 20,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 11,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 11,
+                "Reg": 0,
+                "DSP": 1,
+                "cycle": 0
+            },
+            {
+                "LUT": 11,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 17,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 23,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 32,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 40,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 50,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            }
+        ],
+        [
+            {
+                "LUT": null,
+                "Reg": null,
+                "DSP": null,
+                "cycle": null
+            },
+            {
+                "LUT": 21,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 17,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 17,
+                "Reg": 0,
+                "DSP": 17,
+                "cycle": 0
+            },
+            {
+                "LUT": 17,
+                "Reg": 0,
+                "DSP": 17,
+                "cycle": 0
+            },
+            {
+                "LUT": 17,
+                "Reg": 0,
+                "DSP": 17,
+                "cycle": 0
+            },
+            {
+                "LUT": 17,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 23,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 32,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 40,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 50,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            }
+        ],
+        [
+            {
+                "LUT": null,
+                "Reg": null,
+                "DSP": null,
+                "cycle": null
+            },
+            {
+                "LUT": 22,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 23,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 23,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 23,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 23,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 23,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 23,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 32,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 40,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 50,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            }
+        ],
+        [
+            {
+                "LUT": null,
+                "Reg": null,
+                "DSP": null,
+                "cycle": null
+            },
+            {
+                "LUT": 23,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 32,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 32,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 32,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 32,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 32,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 32,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 32,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 40,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 50,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            }
+        ],
+        [
+            {
+                "LUT": null,
+                "Reg": null,
+                "DSP": null,
+                "cycle": null
+            },
+            {
+                "LUT": 25,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 40,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 40,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 40,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 40,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 40,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 40,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 40,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 50,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            }
+        ],
+        [
+            {
+                "LUT": null,
+                "Reg": null,
+                "DSP": null,
+                "cycle": null
+            },
+            {
+                "LUT": 27,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 50,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 50,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 50,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 50,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 50,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 50,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 50,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 50,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            }
+        ],
+        [
+            {
+                "LUT": null,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 29,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 62,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            },
+            {
+                "LUT": 29,
+                "Reg": 0,
+                "DSP": 0,
+                "cycle": 0
+            }
+        ]
+    ],
+    "max_2": [
+        {
+            "LUT": 117,
+            "Reg": 66,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 8,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 13,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 12,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 13,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 16,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 17,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 18,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 19,
+            "Reg": 0,
+            "DSP": 22,
+            "cycle": 0
+        },
+        {
+            "LUT": 22,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        }
+    ],
+    "relu": [
+        {
+            "LUT": 82,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 1
+        },
+        {
+            "LUT": 0,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 8,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 11,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 12,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 15,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 16,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 17,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 18,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 21,
+            "Reg": 0,
+            "DSP": 0,
+            "cycle": 0
+        }
+    ],
+    "elu": [
+        [
+            {
+                "LUT": 1115,
+                "Reg": 479,
+                "DSP": 9,
+                "cycle": 10
+            }
+        ],
+        [
+            {
+                "LUT": 2475,
+                "Reg": 605,
+                "DSP": 9,
+                "cycle": 11
+            },
+            {
+                "LUT": 3481,
+                "Reg": 726,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3508,
+                "Reg": 732,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3530,
+                "Reg": 732,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3480,
+                "Reg": 735,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3492,
+                "Reg": 741,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3524,
+                "Reg": 744,
+                "DSP": 9,
+                "cycle": 12
+            }
+        ],
+        [
+            {
+                "LUT": 3426,
+                "Reg": 684,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3508,
+                "Reg": 732,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3530,
+                "Reg": 732,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3480,
+                "Reg": 735,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3492,
+                "Reg": 741,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3524,
+                "Reg": 744,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3545,
+                "Reg": 748,
+                "DSP": 9,
+                "cycle": 12
+            }
+        ],
+        [
+            {
+                "LUT": 3453,
+                "Reg": 690,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3530,
+                "Reg": 732,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3480,
+                "Reg": 735,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3492,
+                "Reg": 741,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3524,
+                "Reg": 744,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3545,
+                "Reg": 748,
+                "DSP": 9,
+                "cycle": 12
+            },
+            {
+                "LUT": 3574,
+                "Reg": 743,
+                "DSP": 9,
+                "cycle": 12
+            }
+        ]
+    ],
+    "tanh": [
+        [
+            {
+                "LUT": 2042,
+                "Reg": 953,
+                "DSP": 18,
+                "cycle": 16
+            }
+        ],
+        [
+            {
+                "LUT": 3489,
+                "Reg": 1076,
+                "DSP": 18,
+                "cycle": 18
+            },
+            {
+                "LUT": 4486,
+                "Reg": 1200,
+                "DSP": 18,
+                "cycle": 19
+            },
+            {
+                "LUT": 4508,
+                "Reg": 1205,
+                "DSP": 18,
+                "cycle": 19
+            },
+            {
+                "LUT": 4526,
+                "Reg": 1204,
+                "DSP": 18,
+                "cycle": 19
+            },
+            {
+                "LUT": 4470,
+                "Reg": 1206,
+                "DSP": 18,
+                "cycle": 19
+            },
+            {
+                "LUT": 4478,
+                "Reg": 1211,
+                "DSP": 18,
+                "cycle": 19
+            },
+            {
+                "LUT": 4506,
+                "Reg": 1213,
+                "DSP": 18,
+                "cycle": 19
+            }
+        ],
+        [
+            {
+                "LUT": 4431,
+                "Reg": 1159,
+                "DSP": 18,
+                "cycle": 18
+            },
+            {
+                "LUT": 4508,
+                "Reg": 1205,
+                "DSP": 18,
+                "cycle": 19
+            },
+            {
+                "LUT": 4526,
+                "Reg": 1204,
+                "DSP": 18,
+                "cycle": 19
+            },
+            {
+                "LUT": 4470,
+                "Reg": 1206,
+                "DSP": 18,
+                "cycle": 19
+            },
+            {
+                "LUT": 4478,
+                "Reg": 1211,
+                "DSP": 18,
+                "cycle": 19
+            },
+            {
+                "LUT": 4506,
+                "Reg": 1213,
+                "DSP": 18,
+                "cycle": 19
+            },
+            {
+                "LUT": 4523,
+                "Reg": 1216,
+                "DSP": 18,
+                "cycle": 19
+            }
+        ],
+        [
+            {
+                "LUT": 4453,
+                "Reg": 1165,
+                "DSP": 18,
+                "cycle": 19
+            },
+            {
+                "LUT": 4526,
+                "Reg": 1204,
+                "DSP": 18,
+                "cycle": 19
+            },
+            {
+                "LUT": 4470,
+                "Reg": 1206,
+                "DSP": 18,
+                "cycle": 19
+            },
+            {
+                "LUT": 4478,
+                "Reg": 1211,
+                "DSP": 18,
+                "cycle": 19
+            },
+            {
+                "LUT": 4506,
+                "Reg": 1213,
+                "DSP": 18,
+                "cycle": 19
+            },
+            {
+                "LUT": 4523,
+                "Reg": 1216,
+                "DSP": 18,
+                "cycle": 19
+            },
+            {
+                "LUT": 4546,
+                "Reg": 1210,
+                "DSP": 18,
+                "cycle": 19
+            }
+        ]
+    ],
+    "sigmoid": [
+        [
+            {
+                "LUT": 1082,
+                "Reg": 517,
+                "DSP": 9,
+                "cycle": 16
+            }
+        ],
+        [
+            {
+                "LUT": 2497,
+                "Reg": 640,
+                "DSP": 9,
+                "cycle": 18
+            },
+            {
+                "LUT": 3527,
+                "Reg": 764,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3549,
+                "Reg": 769,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3527,
+                "Reg": 764,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3511,
+                "Reg": 770,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3519,
+                "Reg": 775,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3547,
+                "Reg": 777,
+                "DSP": 9,
+                "cycle": 19
+            }
+        ],
+        [
+            {
+                "LUT": 3472,
+                "Reg": 723,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3549,
+                "Reg": 769,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3567,
+                "Reg": 768,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3511,
+                "Reg": 770,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3519,
+                "Reg": 775,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3547,
+                "Reg": 777,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3564,
+                "Reg": 780,
+                "DSP": 9,
+                "cycle": 19
+            }
+        ],
+        [
+            {
+                "LUT": 3494,
+                "Reg": 729,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3567,
+                "Reg": 768,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3511,
+                "Reg": 770,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3519,
+                "Reg": 775,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3547,
+                "Reg": 777,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3564,
+                "Reg": 780,
+                "DSP": 9,
+                "cycle": 19
+            },
+            {
+                "LUT": 3587,
+                "Reg": 774,
+                "DSP": 9,
+                "cycle": 19
+            }
+        ]
+    ],
+    "mux_2": [
+        {
+            "LUT": 328,
+            "Reg": 182,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 362,
+            "Reg": 220,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 362,
+            "Reg": 220,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 363,
+            "Reg": 220,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 364,
+            "Reg": 220,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 365,
+            "Reg": 220,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 366,
+            "Reg": 220,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 367,
+            "Reg": 220,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 368,
+            "Reg": 220,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 369,
+            "Reg": 220,
+            "DSP": 0,
+            "cycle": 0
+        }
+    ],
+    "divider": [
+        [
+            {
+                "LUT": 279,
+                "Reg": 249,
+                "DSP": 0,
+                "cycle": 8
+            }
+        ],
+        [
+            {
+                "LUT": 1788,
+                "Reg": 410,
+                "DSP": 0,
+                "cycle": 10
+            },
+            {
+                "LUT": 2784,
+                "Reg": 534,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2806,
+                "Reg": 539,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2824,
+                "Reg": 538,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2768,
+                "Reg": 540,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2776,
+                "Reg": 545,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2804,
+                "Reg": 547,
+                "DSP": 0,
+                "cycle": 11
+            }
+        ],
+        [
+            {
+                "LUT": 2729,
+                "Reg": 439,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2806,
+                "Reg": 539,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2824,
+                "Reg": 538,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2768,
+                "Reg": 540,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2776,
+                "Reg": 545,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2804,
+                "Reg": 547,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2821,
+                "Reg": 550,
+                "DSP": 0,
+                "cycle": 11
+            }
+        ],
+        [
+            {
+                "LUT": 2751,
+                "Reg": 499,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2824,
+                "Reg": 538,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2768,
+                "Reg": 540,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2776,
+                "Reg": 545,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2804,
+                "Reg": 547,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2821,
+                "Reg": 550,
+                "DSP": 0,
+                "cycle": 11
+            },
+            {
+                "LUT": 2844,
+                "Reg": 544,
+                "DSP": 0,
+                "cycle": 11
+            }
+        ]
+    ],
+    "truncator_1": [
+        {
+            "LUT": null,
+            "Reg": null,
+            "DSP": null,
+            "cycle": null
+        },
+        {
+            "LUT": null,
+            "Reg": null,
+            "DSP": null,
+            "cycle": null
+        },
+        {
+            "LUT": 264,
+            "Reg": 144,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 232,
+            "Reg": 144,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 232,
+            "Reg": 144,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 232,
+            "Reg": 144,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 232,
+            "Reg": 144,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 232,
+            "Reg": 144,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 232,
+            "Reg": 144,
+            "DSP": 0,
+            "cycle": 0
+        },
+        {
+            "LUT": 232,
+            "Reg": 144,
+            "DSP": 0,
+            "cycle": 0
+        }
+    ]
+}

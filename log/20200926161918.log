@@ -1,0 +1,10 @@
+26-Sep-20 16:19:18 - ==================================================Run 1==================================================
+26-Sep-20 16:19:18 - using device cpu
+26-Sep-20 16:19:18 - Episode 1...
+26-Sep-20 16:19:42 - Child Network: 1 (best: 1), Rollout: [{'attention': 'constant', 'heads': 4, 'aggregation': 'max', 'activation': 'elu', 'hidden_features': 8}], Reward: 0.732 (0.732)
+26-Sep-20 16:20:32 - Child Network: 2 (best: 2), Rollout: [{'attention': 'constant', 'heads': 8, 'aggregation': 'max', 'activation': 'relu', 'hidden_features': 4}], Reward: 0.744 (0.744)
+26-Sep-20 16:20:39 - Child Network: 3 (best: 2), Rollout: [{'attention': 'gcn', 'heads': 1, 'aggregation': 'max', 'activation': 'elu', 'hidden_features': 32}], Reward: 0.596 (0.744)
+26-Sep-20 16:21:05 - Child Network: 4 (best: 2), Rollout: [{'attention': 'gcn', 'heads': 4, 'aggregation': 'mean', 'activation': 'tanh', 'hidden_features': 64}], Reward: 0.716 (0.744)
+26-Sep-20 16:21:29 - Child Network: 5 (best: 2), Rollout: [{'attention': 'constant', 'heads': 4, 'aggregation': 'add', 'activation': 'relu', 'hidden_features': 16}], Reward: 0.738 (0.744)
+26-Sep-20 16:21:30 - saving figure to experiment/20200926161918/progress.png
+26-Sep-20 16:21:30 - **************************************************End**************************************************

@@ -1,0 +1,4 @@
+26-Aug-20 20:41:48 - ==================================================Run 1==================================================
+26-Aug-20 20:41:48 - using device cpu
+26-Aug-20 20:41:48 - Episode 1...
+26-Aug-20 20:41:49 - Child Network: 1 (best: 1), Rollout: [{'attention': 'constant', 'heads': 6, 'aggr': 'mean', 'activation': 'relu', 'hidden_features': 8, 'act_int_bits': 0, 'act_frac_bits:': 2, 'weight_int_bits': 2, 'weight_frac_bits': 4, 'tile_size': 4, 'aggr_tile_size': 2, 'atten_tile_size': 4}], Reward: 0.13 (0.13)

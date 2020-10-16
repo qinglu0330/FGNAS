@@ -1,0 +1,16 @@
+[
+    {
+        "attention": "gat",
+        "heads": 16,
+        "aggregation": "add",
+        "activation": "tanh",
+        "hidden_features": 16
+    },
+    {
+        "attention": "gat",
+        "heads": 16,
+        "aggregation": "mean",
+        "activation": "elu",
+        "hidden_features": 16
+    }
+]

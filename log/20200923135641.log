@@ -1,0 +1,11 @@
+23-Sep-20 13:56:41 - ==================================================Run 1==================================================
+23-Sep-20 13:56:41 - using device cpu
+23-Sep-20 13:56:41 - Episode 1...
+23-Sep-20 13:56:42 - Child Network: 1 (best: 1), Rollout: [{'attention': 'constant', 'heads': 1, 'aggregation': 'add', 'activation': 'elu', 'hidden_features': 32}], Reward: 0.777 (0.777)
+23-Sep-20 13:56:45 - Child Network: 2 (best: 1), Rollout: [{'attention': 'gcn', 'heads': 2, 'aggregation': 'mean', 'activation': 'elu', 'hidden_features': 64}], Reward: 0.752 (0.777)
+23-Sep-20 13:56:47 - Child Network: 3 (best: 1), Rollout: [{'attention': 'gcn', 'heads': 2, 'aggregation': 'add', 'activation': 'elu', 'hidden_features': 12}], Reward: 0.762 (0.777)
+23-Sep-20 13:56:56 - Child Network: 4 (best: 1), Rollout: [{'attention': 'gcn', 'heads': 8, 'aggregation': 'mean', 'activation': 'elu', 'hidden_features': 12}], Reward: 0.749 (0.777)
+23-Sep-20 13:57:04 - Child Network: 5 (best: 1), Rollout: [{'attention': 'gat', 'heads': 4, 'aggregation': 'mean', 'activation': 'elu', 'hidden_features': 32}], Reward: 0.713 (0.777)
+23-Sep-20 13:57:04 - Episode 2...
+23-Sep-20 13:57:09 - Child Network: 6 (best: 1), Rollout: [{'attention': 'gat', 'heads': 2, 'aggregation': 'max', 'activation': 'tanh', 'hidden_features': 32}], Reward: 0.646 (0.777)
+23-Sep-20 13:57:13 - Child Network: 7 (best: 1), Rollout: [{'attention': 'gcn', 'heads': 4, 'aggregation': 'mean', 'activation': 'elu', 'hidden_features': 16}], Reward: 0.752 (0.777)

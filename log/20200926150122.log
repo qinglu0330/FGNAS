@@ -1,0 +1,4 @@
+26-Sep-20 15:01:22 - ==================================================Run 1==================================================
+26-Sep-20 15:01:22 - using device cpu
+26-Sep-20 15:01:22 - Episode 1...
+26-Sep-20 15:01:43 - Child Network: 1 (best: 1), Rollout: [{'attention': 'gat', 'heads': 1, 'aggregation': 'max', 'activation': 'sigmoid', 'hidden_features': 32}, {'attention': 'gat', 'heads': 8, 'aggregation': 'max', 'activation': 'relu', 'hidden_features': 12}], Reward: 0.508 (0.508)

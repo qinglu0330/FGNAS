@@ -1,0 +1,4 @@
+24-Aug-20 06:51:09 - ==================================================Run 1==================================================
+24-Aug-20 06:51:09 - using device cpu
+24-Aug-20 06:51:09 - Episode 1...
+24-Aug-20 06:51:24 - Child Network: 1 (best: 1), Rollout: [{'attention': 'gat', 'heads': 16, 'aggr': 'add', 'activation': 'relu', 'hidden_features': 4, 'act_int_bits': 1, 'act_frac_bits:': 0, 'weight_int_bits': 1, 'weight_frac_bits': 1}, {'attention': 'gat', 'heads': 6, 'aggr': 'max', 'activation': 'sigmoid', 'hidden_features': 64, 'act_int_bits': 3, 'act_frac_bits:': 6, 'weight_int_bits': 3, 'weight_frac_bits': 2}], Reward: 0.13 (0.13)

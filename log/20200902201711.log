@@ -1,0 +1,4 @@
+02-Sep-20 20:17:11 - ==================================================Run 1==================================================
+02-Sep-20 20:17:11 - using device cpu
+02-Sep-20 20:17:11 - Episode 1...
+02-Sep-20 20:17:11 - Child Network: 1 (best: 0), Rollout: [{'attention': 'constant', 'heads': 16, 'aggregation': 'mean', 'activation': 'tanh', 'hidden_features': 16, 'act_int_bits': 2, 'act_frac_bits': 6, 'weight_int_bits': 1, 'weight_frac_bits': 1, 'in_tile_size': 2, 'out_tile_size': 4, 'aggr_tile_size': 1, 'attn_tile_size': 4, 'act_tile_size': 1}, {'attention': 'gat', 'heads': 4, 'aggregation': 'add', 'activation': 'sigmoid', 'hidden_features': 64, 'act_int_bits': 2, 'act_frac_bits': 5, 'weight_int_bits': 3, 'weight_frac_bits': 2, 'in_tile_size': 2, 'out_tile_size': 2, 'aggr_tile_size': 4, 'attn_tile_size': 4, 'act_tile_size': 3}], Reward: 0 (0)

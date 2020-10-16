@@ -1,0 +1,38 @@
+[
+    {
+        "in_features": 128,
+        "out_features": 16,
+        "concat": false,
+        "attention": "gat",
+        "heads": 8,
+        "aggregation": "add",
+        "activation": "relu",
+        "act_int_bits": 1,
+        "act_frac_bits": 2,
+        "weight_int_bits": 2,
+        "weight_frac_bits": 2,
+        "in_tile_size": 4,
+        "out_tile_size": 2,
+        "aggr_tile_size": 4,
+        "attn_tile_size": 2,
+        "act_tile_size": 1
+    },
+    {
+        "in_features": 16,
+        "out_features": 7,
+        "concat": true,
+        "attention": "gat",
+        "heads": 8,
+        "aggregation": "add",
+        "activation": "relu",
+        "act_int_bits": 1,
+        "act_frac_bits": 2,
+        "weight_int_bits": 2,
+        "weight_frac_bits": 2,
+        "in_tile_size": 4,
+        "out_tile_size": 2,
+        "aggr_tile_size": 4,
+        "attn_tile_size": 2,
+        "act_tile_size": 1
+    }
+]

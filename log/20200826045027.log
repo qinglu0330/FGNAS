@@ -1,0 +1,126 @@
+26-Aug-20 04:50:27 - ==================================================Run 1==================================================
+26-Aug-20 04:50:27 - using device cpu
+26-Aug-20 04:50:27 - Episode 1...
+26-Aug-20 04:50:29 - Child Network: 1 (best: 1), Rollout: [{'attention': 'gcn', 'heads': 4, 'aggr': 'max', 'activation': 'elu', 'hidden_features': 64}], Reward: 0.653 (0.653)
+26-Aug-20 04:50:30 - Child Network: 2 (best: 2), Rollout: [{'attention': 'constant', 'heads': 8, 'aggr': 'add', 'activation': 'elu', 'hidden_features': 8}], Reward: 0.779 (0.779)
+26-Aug-20 04:50:36 - Child Network: 3 (best: 2), Rollout: [{'attention': 'gat', 'heads': 8, 'aggr': 'mean', 'activation': 'elu', 'hidden_features': 4}], Reward: 0.73 (0.779)
+26-Aug-20 04:50:38 - Child Network: 4 (best: 2), Rollout: [{'attention': 'constant', 'heads': 6, 'aggr': 'max', 'activation': 'relu', 'hidden_features': 4}], Reward: 0.634 (0.779)
+26-Aug-20 04:50:39 - Child Network: 5 (best: 2), Rollout: [{'attention': 'constant', 'heads': 2, 'aggr': 'max', 'activation': 'elu', 'hidden_features': 8}], Reward: 0.667 (0.779)
+26-Aug-20 04:50:39 - Episode 2...
+26-Aug-20 04:50:41 - Child Network: 6 (best: 2), Rollout: [{'attention': 'gcn', 'heads': 6, 'aggr': 'add', 'activation': 'tanh', 'hidden_features': 4}], Reward: 0.753 (0.779)
+26-Aug-20 04:50:41 - Child Network: 7 (best: 2), Rollout: [{'attention': 'constant', 'heads': 2, 'aggr': 'add', 'activation': 'elu', 'hidden_features': 16}], Reward: 0.775 (0.779)
+26-Aug-20 04:50:43 - Child Network: 8 (best: 2), Rollout: [{'attention': 'gcn', 'heads': 4, 'aggr': 'max', 'activation': 'elu', 'hidden_features': 12}], Reward: 0.603 (0.779)
+26-Aug-20 04:50:49 - Child Network: 9 (best: 2), Rollout: [{'attention': 'gat', 'heads': 4, 'aggr': 'max', 'activation': 'sigmoid', 'hidden_features': 12}], Reward: 0.725 (0.779)
+26-Aug-20 04:50:53 - Child Network: 10 (best: 2), Rollout: [{'attention': 'gat', 'heads': 2, 'aggr': 'max', 'activation': 'sigmoid', 'hidden_features': 8}], Reward: 0.671 (0.779)
+26-Aug-20 04:50:53 - Episode 3...
+26-Aug-20 04:50:54 - Child Network: 11 (best: 2), Rollout: [{'attention': 'constant', 'heads': 4, 'aggr': 'max', 'activation': 'relu', 'hidden_features': 16}], Reward: 0.635 (0.779)
+26-Aug-20 04:50:57 - Child Network: 12 (best: 2), Rollout: [{'attention': 'gat', 'heads': 1, 'aggr': 'max', 'activation': 'elu', 'hidden_features': 16}], Reward: 0.567 (0.779)
+26-Aug-20 04:50:59 - Child Network: 13 (best: 2), Rollout: [{'attention': 'gcn', 'heads': 4, 'aggr': 'max', 'activation': 'sigmoid', 'hidden_features': 16}], Reward: 0.624 (0.779)
+26-Aug-20 04:51:11 - Child Network: 14 (best: 2), Rollout: [{'attention': 'gat', 'heads': 16, 'aggr': 'add', 'activation': 'tanh', 'hidden_features': 12}], Reward: 0.767 (0.779)
+26-Aug-20 04:51:11 - Child Network: 15 (best: 2), Rollout: [{'attention': 'constant', 'heads': 2, 'aggr': 'add', 'activation': 'elu', 'hidden_features': 12}], Reward: 0.773 (0.779)
+26-Aug-20 04:51:11 - Episode 4...
+26-Aug-20 04:51:12 - Child Network: 16 (best: 2), Rollout: [{'attention': 'constant', 'heads': 6, 'aggr': 'add', 'activation': 'sigmoid', 'hidden_features': 8}], Reward: 0.772 (0.779)
+26-Aug-20 04:51:14 - Child Network: 17 (best: 2), Rollout: [{'attention': 'constant', 'heads': 4, 'aggr': 'max', 'activation': 'relu', 'hidden_features': 16}], Reward: 0.668 (0.779)
+26-Aug-20 04:51:15 - Child Network: 18 (best: 2), Rollout: [{'attention': 'gcn', 'heads': 2, 'aggr': 'mean', 'activation': 'elu', 'hidden_features': 64}], Reward: 0.742 (0.779)
+26-Aug-20 04:51:18 - Child Network: 19 (best: 2), Rollout: [{'attention': 'gat', 'heads': 2, 'aggr': 'add', 'activation': 'sigmoid', 'hidden_features': 64}], Reward: 0.727 (0.779)
+26-Aug-20 04:51:38 - Child Network: 20 (best: 2), Rollout: [{'attention': 'gat', 'heads': 16, 'aggr': 'max', 'activation': 'elu', 'hidden_features': 16}], Reward: 0.763 (0.779)
+26-Aug-20 04:51:38 - Episode 5...
+26-Aug-20 04:51:39 - Child Network: 21 (best: 2), Rollout: [{'attention': 'constant', 'heads': 16, 'aggr': 'max', 'activation': 'sigmoid', 'hidden_features': 8}], Reward: 0.639 (0.779)
+26-Aug-20 04:51:40 - Child Network: 22 (best: 2), Rollout: [{'attention': 'gcn', 'heads': 2, 'aggr': 'add', 'activation': 'tanh', 'hidden_features': 12}], Reward: 0.75 (0.779)
+26-Aug-20 04:51:41 - Child Network: 23 (best: 2), Rollout: [{'attention': 'constant', 'heads': 4, 'aggr': 'add', 'activation': 'elu', 'hidden_features': 12}], Reward: 0.777 (0.779)
+26-Aug-20 04:52:00 - Child Network: 24 (best: 2), Rollout: [{'attention': 'gat', 'heads': 16, 'aggr': 'max', 'activation': 'elu', 'hidden_features': 64}], Reward: 0.738 (0.779)
+26-Aug-20 04:52:12 - Child Network: 25 (best: 2), Rollout: [{'attention': 'gat', 'heads': 16, 'aggr': 'mean', 'activation': 'tanh', 'hidden_features': 12}], Reward: 0.722 (0.779)
+26-Aug-20 04:52:12 - Episode 6...
+26-Aug-20 04:52:13 - Child Network: 26 (best: 26), Rollout: [{'attention': 'constant', 'heads': 1, 'aggr': 'mean', 'activation': 'elu', 'hidden_features': 12}], Reward: 0.78 (0.78)
+26-Aug-20 04:52:15 - Child Network: 27 (best: 26), Rollout: [{'attention': 'gcn', 'heads': 6, 'aggr': 'max', 'activation': 'relu', 'hidden_features': 16}], Reward: 0.607 (0.78)
+26-Aug-20 04:52:16 - Child Network: 28 (best: 26), Rollout: [{'attention': 'gcn', 'heads': 6, 'aggr': 'mean', 'activation': 'elu', 'hidden_features': 32}], Reward: 0.739 (0.78)
+26-Aug-20 04:52:18 - Child Network: 29 (best: 26), Rollout: [{'attention': 'constant', 'heads': 6, 'aggr': 'max', 'activation': 'sigmoid', 'hidden_features': 32}], Reward: 0.673 (0.78)
+26-Aug-20 04:52:19 - Child Network: 30 (best: 26), Rollout: [{'attention': 'constant', 'heads': 4, 'aggr': 'max', 'activation': 'relu', 'hidden_features': 64}], Reward: 0.635 (0.78)
+26-Aug-20 04:52:19 - Episode 7...
+26-Aug-20 04:52:20 - Child Network: 31 (best: 26), Rollout: [{'attention': 'constant', 'heads': 16, 'aggr': 'add', 'activation': 'sigmoid', 'hidden_features': 12}], Reward: 0.771 (0.78)
+26-Aug-20 04:52:21 - Child Network: 32 (best: 26), Rollout: [{'attention': 'constant', 'heads': 2, 'aggr': 'max', 'activation': 'elu', 'hidden_features': 12}], Reward: 0.677 (0.78)
+26-Aug-20 04:52:33 - Child Network: 33 (best: 26), Rollout: [{'attention': 'gat', 'heads': 8, 'aggr': 'max', 'activation': 'sigmoid', 'hidden_features': 64}], Reward: 0.757 (0.78)
+26-Aug-20 04:52:35 - Child Network: 34 (best: 26), Rollout: [{'attention': 'gat', 'heads': 2, 'aggr': 'add', 'activation': 'elu', 'hidden_features': 8}], Reward: 0.725 (0.78)
+26-Aug-20 04:52:37 - Child Network: 35 (best: 26), Rollout: [{'attention': 'gcn', 'heads': 6, 'aggr': 'add', 'activation': 'elu', 'hidden_features': 16}], Reward: 0.744 (0.78)
+26-Aug-20 04:52:37 - Episode 8...
+26-Aug-20 04:52:38 - Child Network: 36 (best: 26), Rollout: [{'attention': 'gcn', 'heads': 1, 'aggr': 'mean', 'activation': 'tanh', 'hidden_features': 64}], Reward: 0.751 (0.78)
+26-Aug-20 04:52:39 - Child Network: 37 (best: 26), Rollout: [{'attention': 'constant', 'heads': 1, 'aggr': 'add', 'activation': 'relu', 'hidden_features': 12}], Reward: 0.673 (0.78)
+26-Aug-20 04:52:40 - Child Network: 38 (best: 26), Rollout: [{'attention': 'gcn', 'heads': 4, 'aggr': 'add', 'activation': 'elu', 'hidden_features': 32}], Reward: 0.746 (0.78)
+26-Aug-20 04:52:41 - Child Network: 39 (best: 39), Rollout: [{'attention': 'constant', 'heads': 8, 'aggr': 'mean', 'activation': 'relu', 'hidden_features': 32}], Reward: 0.782 (0.782)
+26-Aug-20 04:52:43 - Child Network: 40 (best: 39), Rollout: [{'attention': 'gcn', 'heads': 4, 'aggr': 'add', 'activation': 'elu', 'hidden_features': 12}], Reward: 0.749 (0.782)
+26-Aug-20 04:52:43 - Episode 9...
+26-Aug-20 04:52:44 - Child Network: 41 (best: 39), Rollout: [{'attention': 'constant', 'heads': 1, 'aggr': 'mean', 'activation': 'elu', 'hidden_features': 64}], Reward: 0.78 (0.782)
+26-Aug-20 04:52:48 - Child Network: 42 (best: 39), Rollout: [{'attention': 'gat', 'heads': 4, 'aggr': 'add', 'activation': 'elu', 'hidden_features': 32}], Reward: 0.755 (0.782)
+26-Aug-20 04:52:50 - Child Network: 43 (best: 39), Rollout: [{'attention': 'gat', 'heads': 1, 'aggr': 'mean', 'activation': 'tanh', 'hidden_features': 32}], Reward: 0.657 (0.782)
+26-Aug-20 04:52:51 - Child Network: 44 (best: 39), Rollout: [{'attention': 'gcn', 'heads': 6, 'aggr': 'add', 'activation': 'tanh', 'hidden_features': 32}], Reward: 0.754 (0.782)
+26-Aug-20 04:52:53 - Child Network: 45 (best: 39), Rollout: [{'attention': 'constant', 'heads': 4, 'aggr': 'max', 'activation': 'sigmoid', 'hidden_features': 32}], Reward: 0.666 (0.782)
+26-Aug-20 04:52:53 - Episode 10...
+26-Aug-20 04:52:59 - Child Network: 46 (best: 39), Rollout: [{'attention': 'gat', 'heads': 6, 'aggr': 'mean', 'activation': 'tanh', 'hidden_features': 32}], Reward: 0.727 (0.782)
+26-Aug-20 04:52:59 - Child Network: 47 (best: 39), Rollout: [{'attention': 'constant', 'heads': 8, 'aggr': 'mean', 'activation': 'relu', 'hidden_features': 32}], Reward: 0.778 (0.782)
+26-Aug-20 04:53:01 - Child Network: 48 (best: 39), Rollout: [{'attention': 'gcn', 'heads': 2, 'aggr': 'mean', 'activation': 'relu', 'hidden_features': 16}], Reward: 0.747 (0.782)
+26-Aug-20 04:53:02 - Child Network: 49 (best: 49), Rollout: [{'attention': 'constant', 'heads': 8, 'aggr': 'mean', 'activation': 'sigmoid', 'hidden_features': 16}], Reward: 0.793 (0.793)
+26-Aug-20 04:53:03 - Child Network: 50 (best: 49), Rollout: [{'attention': 'constant', 'heads': 1, 'aggr': 'mean', 'activation': 'elu', 'hidden_features': 32}], Reward: 0.776 (0.793)
+26-Aug-20 04:53:03 - ==================================================Run 2==================================================
+26-Aug-20 04:53:03 - using device cpu
+26-Aug-20 04:53:03 - Episode 1...
+26-Aug-20 04:53:04 - Child Network: 1 (best: 1), Rollout: [{'attention': 'gcn', 'heads': 1, 'aggr': 'add', 'activation': 'tanh', 'hidden_features': 12}], Reward: 0.75 (0.75)
+26-Aug-20 04:53:08 - Child Network: 2 (best: 1), Rollout: [{'attention': 'gat', 'heads': 4, 'aggr': 'mean', 'activation': 'sigmoid', 'hidden_features': 8}], Reward: 0.668 (0.75)
+26-Aug-20 04:53:09 - Child Network: 3 (best: 1), Rollout: [{'attention': 'constant', 'heads': 2, 'aggr': 'add', 'activation': 'relu', 'hidden_features': 32}], Reward: 0.643 (0.75)
+26-Aug-20 04:53:11 - Child Network: 4 (best: 1), Rollout: [{'attention': 'gcn', 'heads': 4, 'aggr': 'add', 'activation': 'tanh', 'hidden_features': 64}], Reward: 0.75 (0.75)
+26-Aug-20 04:53:31 - Child Network: 5 (best: 5), Rollout: [{'attention': 'gat', 'heads': 16, 'aggr': 'max', 'activation': 'relu', 'hidden_features': 12}], Reward: 0.77 (0.77)
+26-Aug-20 04:53:31 - Episode 2...
+26-Aug-20 04:53:51 - Child Network: 6 (best: 5), Rollout: [{'attention': 'gat', 'heads': 16, 'aggr': 'max', 'activation': 'sigmoid', 'hidden_features': 8}], Reward: 0.744 (0.77)
+26-Aug-20 04:53:53 - Child Network: 7 (best: 5), Rollout: [{'attention': 'gcn', 'heads': 6, 'aggr': 'max', 'activation': 'relu', 'hidden_features': 4}], Reward: 0.653 (0.77)
+26-Aug-20 04:53:54 - Child Network: 8 (best: 5), Rollout: [{'attention': 'gcn', 'heads': 4, 'aggr': 'add', 'activation': 'elu', 'hidden_features': 16}], Reward: 0.75 (0.77)
+26-Aug-20 04:54:03 - Child Network: 9 (best: 5), Rollout: [{'attention': 'gat', 'heads': 6, 'aggr': 'max', 'activation': 'tanh', 'hidden_features': 8}], Reward: 0.746 (0.77)
+26-Aug-20 04:54:05 - Child Network: 10 (best: 5), Rollout: [{'attention': 'constant', 'heads': 16, 'aggr': 'max', 'activation': 'elu', 'hidden_features': 4}], Reward: 0.613 (0.77)
+26-Aug-20 04:54:05 - Episode 3...
+26-Aug-20 04:54:06 - Child Network: 11 (best: 5), Rollout: [{'attention': 'gcn', 'heads': 8, 'aggr': 'max', 'activation': 'sigmoid', 'hidden_features': 12}], Reward: 0.693 (0.77)
+26-Aug-20 04:54:08 - Child Network: 12 (best: 5), Rollout: [{'attention': 'gcn', 'heads': 6, 'aggr': 'max', 'activation': 'relu', 'hidden_features': 16}], Reward: 0.617 (0.77)
+26-Aug-20 04:54:10 - Child Network: 13 (best: 5), Rollout: [{'attention': 'gcn', 'heads': 2, 'aggr': 'mean', 'activation': 'tanh', 'hidden_features': 32}], Reward: 0.752 (0.77)
+26-Aug-20 04:54:10 - Child Network: 14 (best: 5), Rollout: [{'attention': 'constant', 'heads': 4, 'aggr': 'add', 'activation': 'sigmoid', 'hidden_features': 4}], Reward: 0.77 (0.77)
+26-Aug-20 04:54:16 - Child Network: 15 (best: 5), Rollout: [{'attention': 'gat', 'heads': 6, 'aggr': 'add', 'activation': 'elu', 'hidden_features': 12}], Reward: 0.734 (0.77)
+26-Aug-20 04:54:16 - Episode 4...
+26-Aug-20 04:54:17 - Child Network: 16 (best: 16), Rollout: [{'attention': 'constant', 'heads': 16, 'aggr': 'mean', 'activation': 'sigmoid', 'hidden_features': 12}], Reward: 0.793 (0.793)
+26-Aug-20 04:54:18 - Child Network: 17 (best: 16), Rollout: [{'attention': 'constant', 'heads': 8, 'aggr': 'add', 'activation': 'tanh', 'hidden_features': 12}], Reward: 0.765 (0.793)
+26-Aug-20 04:54:19 - Child Network: 18 (best: 16), Rollout: [{'attention': 'constant', 'heads': 1, 'aggr': 'add', 'activation': 'relu', 'hidden_features': 8}], Reward: 0.781 (0.793)
+26-Aug-20 04:54:20 - Child Network: 19 (best: 16), Rollout: [{'attention': 'constant', 'heads': 8, 'aggr': 'max', 'activation': 'sigmoid', 'hidden_features': 4}], Reward: 0.669 (0.793)
+26-Aug-20 04:54:21 - Child Network: 20 (best: 16), Rollout: [{'attention': 'gcn', 'heads': 8, 'aggr': 'mean', 'activation': 'sigmoid', 'hidden_features': 8}], Reward: 0.735 (0.793)
+26-Aug-20 04:54:21 - Episode 5...
+26-Aug-20 04:54:30 - Child Network: 21 (best: 16), Rollout: [{'attention': 'gat', 'heads': 6, 'aggr': 'max', 'activation': 'elu', 'hidden_features': 8}], Reward: 0.735 (0.793)
+26-Aug-20 04:54:31 - Child Network: 22 (best: 22), Rollout: [{'attention': 'constant', 'heads': 2, 'aggr': 'mean', 'activation': 'sigmoid', 'hidden_features': 8}], Reward: 0.794 (0.794)
+26-Aug-20 04:54:32 - Child Network: 23 (best: 22), Rollout: [{'attention': 'gcn', 'heads': 1, 'aggr': 'mean', 'activation': 'tanh', 'hidden_features': 32}], Reward: 0.755 (0.794)
+26-Aug-20 04:54:34 - Child Network: 24 (best: 22), Rollout: [{'attention': 'gcn', 'heads': 8, 'aggr': 'max', 'activation': 'elu', 'hidden_features': 16}], Reward: 0.64 (0.794)
+26-Aug-20 04:54:36 - Child Network: 25 (best: 22), Rollout: [{'attention': 'gcn', 'heads': 8, 'aggr': 'mean', 'activation': 'relu', 'hidden_features': 16}], Reward: 0.753 (0.794)
+26-Aug-20 04:54:36 - Episode 6...
+26-Aug-20 04:54:40 - Child Network: 26 (best: 22), Rollout: [{'attention': 'gat', 'heads': 4, 'aggr': 'mean', 'activation': 'elu', 'hidden_features': 32}], Reward: 0.72 (0.794)
+26-Aug-20 04:54:43 - Child Network: 27 (best: 22), Rollout: [{'attention': 'gat', 'heads': 1, 'aggr': 'max', 'activation': 'relu', 'hidden_features': 8}], Reward: 0.585 (0.794)
+26-Aug-20 04:54:44 - Child Network: 28 (best: 22), Rollout: [{'attention': 'gcn', 'heads': 4, 'aggr': 'mean', 'activation': 'tanh', 'hidden_features': 64}], Reward: 0.749 (0.794)
+26-Aug-20 04:54:46 - Child Network: 29 (best: 22), Rollout: [{'attention': 'gcn', 'heads': 4, 'aggr': 'add', 'activation': 'sigmoid', 'hidden_features': 4}], Reward: 0.773 (0.794)
+26-Aug-20 04:54:52 - Child Network: 30 (best: 22), Rollout: [{'attention': 'gat', 'heads': 4, 'aggr': 'max', 'activation': 'elu', 'hidden_features': 32}], Reward: 0.706 (0.794)
+26-Aug-20 04:54:52 - Episode 7...
+26-Aug-20 04:54:53 - Child Network: 31 (best: 22), Rollout: [{'attention': 'constant', 'heads': 6, 'aggr': 'max', 'activation': 'sigmoid', 'hidden_features': 8}], Reward: 0.666 (0.794)
+26-Aug-20 04:54:54 - Child Network: 32 (best: 22), Rollout: [{'attention': 'gcn', 'heads': 16, 'aggr': 'add', 'activation': 'relu', 'hidden_features': 12}], Reward: 0.753 (0.794)
+26-Aug-20 04:55:00 - Child Network: 33 (best: 22), Rollout: [{'attention': 'gat', 'heads': 4, 'aggr': 'max', 'activation': 'relu', 'hidden_features': 8}], Reward: 0.707 (0.794)
+26-Aug-20 04:55:11 - Child Network: 34 (best: 22), Rollout: [{'attention': 'gat', 'heads': 8, 'aggr': 'max', 'activation': 'sigmoid', 'hidden_features': 16}], Reward: 0.776 (0.794)
+26-Aug-20 04:55:13 - Child Network: 35 (best: 22), Rollout: [{'attention': 'gcn', 'heads': 6, 'aggr': 'max', 'activation': 'tanh', 'hidden_features': 12}], Reward: 0.664 (0.794)
+26-Aug-20 04:55:13 - Episode 8...
+26-Aug-20 04:55:15 - Child Network: 36 (best: 22), Rollout: [{'attention': 'gcn', 'heads': 6, 'aggr': 'add', 'activation': 'sigmoid', 'hidden_features': 12}], Reward: 0.771 (0.794)
+26-Aug-20 04:55:21 - Child Network: 37 (best: 22), Rollout: [{'attention': 'gat', 'heads': 4, 'aggr': 'max', 'activation': 'relu', 'hidden_features': 12}], Reward: 0.701 (0.794)
+26-Aug-20 04:55:23 - Child Network: 38 (best: 22), Rollout: [{'attention': 'gat', 'heads': 2, 'aggr': 'add', 'activation': 'sigmoid', 'hidden_features': 12}], Reward: 0.701 (0.794)
+26-Aug-20 04:55:25 - Child Network: 39 (best: 22), Rollout: [{'attention': 'gcn', 'heads': 2, 'aggr': 'max', 'activation': 'sigmoid', 'hidden_features': 12}], Reward: 0.673 (0.794)
+26-Aug-20 04:55:36 - Child Network: 40 (best: 22), Rollout: [{'attention': 'gat', 'heads': 8, 'aggr': 'max', 'activation': 'sigmoid', 'hidden_features': 12}], Reward: 0.749 (0.794)
+26-Aug-20 04:55:36 - Episode 9...
+26-Aug-20 04:55:38 - Child Network: 41 (best: 22), Rollout: [{'attention': 'gat', 'heads': 1, 'aggr': 'add', 'activation': 'tanh', 'hidden_features': 4}], Reward: 0.733 (0.794)
+26-Aug-20 04:55:45 - Child Network: 42 (best: 22), Rollout: [{'attention': 'gat', 'heads': 4, 'aggr': 'max', 'activation': 'tanh', 'hidden_features': 12}], Reward: 0.701 (0.794)
+26-Aug-20 04:55:46 - Child Network: 43 (best: 22), Rollout: [{'attention': 'gcn', 'heads': 1, 'aggr': 'mean', 'activation': 'elu', 'hidden_features': 12}], Reward: 0.741 (0.794)
+26-Aug-20 04:55:48 - Child Network: 44 (best: 22), Rollout: [{'attention': 'gcn', 'heads': 2, 'aggr': 'mean', 'activation': 'tanh', 'hidden_features': 12}], Reward: 0.755 (0.794)
+26-Aug-20 04:55:50 - Child Network: 45 (best: 22), Rollout: [{'attention': 'gat', 'heads': 1, 'aggr': 'max', 'activation': 'sigmoid', 'hidden_features': 8}], Reward: 0.603 (0.794)
+26-Aug-20 04:55:50 - Episode 10...
+26-Aug-20 04:55:52 - Child Network: 46 (best: 22), Rollout: [{'attention': 'gcn', 'heads': 4, 'aggr': 'add', 'activation': 'tanh', 'hidden_features': 4}], Reward: 0.752 (0.794)
+26-Aug-20 04:56:13 - Child Network: 47 (best: 22), Rollout: [{'attention': 'gat', 'heads': 16, 'aggr': 'max', 'activation': 'tanh', 'hidden_features': 32}], Reward: 0.77 (0.794)
+26-Aug-20 04:56:15 - Child Network: 48 (best: 22), Rollout: [{'attention': 'gcn', 'heads': 16, 'aggr': 'max', 'activation': 'elu', 'hidden_features': 64}], Reward: 0.625 (0.794)
+26-Aug-20 04:56:16 - Child Network: 49 (best: 22), Rollout: [{'attention': 'constant', 'heads': 2, 'aggr': 'max', 'activation': 'tanh', 'hidden_features': 12}], Reward: 0.658 (0.794)
+26-Aug-20 04:56:17 - Child Network: 50 (best: 22), Rollout: [{'attention': 'constant', 'heads': 1, 'aggr': 'add', 'activation': 'relu', 'hidden_features': 64}], Reward: 0.769 (0.794)
+26-Aug-20 04:56:17 - saving figure to experiment/20200826045027/progress.png
+26-Aug-20 04:56:17 - **************************************************End**************************************************

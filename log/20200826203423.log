@@ -1,0 +1,5 @@
+26-Aug-20 20:34:23 - ==================================================Run 1==================================================
+26-Aug-20 20:34:23 - using device cpu
+26-Aug-20 20:34:23 - Episode 1...
+26-Aug-20 20:34:25 - Child Network: 1 (best: 1), Rollout: [{'attention': 'gcn', 'heads': 4, 'aggr': 'max', 'activation': 'elu', 'hidden_features': 64}], Reward: 0.653 (0.653)
+26-Aug-20 20:34:26 - Child Network: 2 (best: 2), Rollout: [{'attention': 'constant', 'heads': 8, 'aggr': 'add', 'activation': 'elu', 'hidden_features': 8}], Reward: 0.779 (0.779)

@@ -1,0 +1,14 @@
+{
+    "Cora": {
+        "weight_decay": 0.0005,
+        "learning_rate": 0.01
+    },
+    "CiteSeer":{
+        "weight_decay": 0.0005,
+        "learning_rate": 0.01
+    },
+    "PubMed": {
+        "weight_decay": 0.001,
+        "learning_rate": 0.01
+    }
+}

@@ -1,0 +1,6 @@
+28-Aug-20 12:43:17 - ==================================================Run 1==================================================
+28-Aug-20 12:43:17 - using device cpu
+28-Aug-20 12:43:17 - Episode 1...
+28-Aug-20 12:43:25 - Child Network: 1 (best: 1), Rollout: [{'attention': 'gat', 'heads': 2, 'aggregation': 'mean', 'activation': 'tanh', 'hidden_features': 32}, {'attention': 'gcn', 'heads': 1, 'aggregation': 'max', 'activation': 'sigmoid', 'hidden_features': 4}], Reward: 0.754 (0.754)
+28-Aug-20 12:43:36 - Child Network: 2 (best: 1), Rollout: [{'attention': 'constant', 'heads': 8, 'aggregation': 'mean', 'activation': 'sigmoid', 'hidden_features': 12}, {'attention': 'gat', 'heads': 2, 'aggregation': 'mean', 'activation': 'relu', 'hidden_features': 12}], Reward: 0.571 (0.754)
+28-Aug-20 12:43:56 - Child Network: 3 (best: 1), Rollout: [{'attention': 'gat', 'heads': 4, 'aggregation': 'mean', 'activation': 'tanh', 'hidden_features': 8}, {'attention': 'gat', 'heads': 8, 'aggregation': 'mean', 'activation': 'elu', 'hidden_features': 12}], Reward: 0.702 (0.754)

@@ -1,0 +1,15 @@
+.DS_Store
+backup/
+**/__pycache__
+*.ipynb*
+.pyc
+data/
+debug*
+output/
+experiment/
+state/
+.vscode
+broadcast.py
+*test*
+figures/
+gnn-nas-fpga.ffs_gui
